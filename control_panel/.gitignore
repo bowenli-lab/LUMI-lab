@@ -1,0 +1,9 @@
+.idea/
+label_output/
+
+
+/dashboard/reagent_labelling/label_output/
+error_log.txt
+opentron/parsed_scripts/
+
+

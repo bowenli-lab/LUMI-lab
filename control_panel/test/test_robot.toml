@@ -1,0 +1,88 @@
+[database]
+# this is the mongo altas connection string for test server
+database_name = "dev-sdl"
+
+[robot]
+port = 29999
+host = "192.168.1.39"
+time_limit = 600 # this is the time limit in seconds for the robot to complete a task
+
+[plate_reader]
+host = '192.168.1.254'
+port = 5000
+protocol_path = "C:\\Users\\Public\\Documents\\Protocols\\lumi-SDL.prt"
+reading_output_path = "C:\\Users\\Public\\Documents\\SDL-dev-output\\reading"
+experiment_output_path = "C:\\Users\\Public\\Documents\\SDL-dev-output\\experiments"
+
+[protocol_persistence]
+# this is the path to the protocol files
+parsed_protocol_path = "../../control_panel/opentron/parsed_scripts"
+program_path = ["../../control_panel/opentron/test",
+    "../../control_panel/opentron/s4_plate_reading",
+    "../../control_panel/opentron/s3_cell_dosing",
+    "../../control_panel/opentron/s2_lnp_formation",
+    "../../control_panel/opentron/s1_lipid_synthesis",
+    "../../control_panel/opentron"]
+labware_path = ["../../control_panel/opentron/labware"]
+
+
+[opentron0]
+host = '192.168.1.10'
+port = 31950
+user = 'root'
+
+
+[opentron1]
+host = '192.168.1.54'
+port = 31950
+user = 'root'
+
+
+[clamp]
+host = '192.168.1.30'
+port = 9006
+# this is wait time in hrs
+
+
+[incubator]
+wait_time = 10 # this is wait time in hrs
+host = '192.168.1.30'
+port = 9007
+
+[liquid_sampler]
+host = '192.168.1.147'
+port = 8000
+calibration_file = "./liquid-sampler-calibration.csv"
+sample_coefficient = 1.05
+sample_volume = 20
+safe_volume = 100  # the least volume that each well can have before refilling
+safe_cap = 800 # the maximum volume that each well can have after refilling
+calibration_cache_file = "./liquid-sampler-calibration-cache.csv"
+
+[feeder0]
+# feeder names have to be "feeder" and a number
+#host = 'raspberrypi2feeder.local'
+port = 8000
+host = '192.168.1.30'
+
+[feeder1]
+#host = 'raspberrypi2feeder.local'
+port = 9001
+host = '192.168.1.30'
+
+[feeder2]
+#host = 'raspberrypi2feeder.local'
+port = 9002
+host = '192.168.1.30'
+
+
+[feeder3]
+#host = 'raspberrypi2feeder.local'
+port = 9003
+host = '192.168.1.30'
+
+
+
+[notification]
+# this configures the notification system based on slack
+channel = "#sdl-dev"

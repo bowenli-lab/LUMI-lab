@@ -1,0 +1,1 @@
+nohup python ./info_server.py 2>&1 > ./info_server.log &

@@ -1,0 +1,1482 @@
+[
+  {
+    "targets": [
+      {
+        "lipid": {
+          "amines": "A1",
+          "isocyanide": "B4",
+          "lipid_carboxylic_acid": "D19",
+          "lipid_aldehyde": "C15"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A1",
+          "isocyanide": "B6",
+          "lipid_carboxylic_acid": "D15",
+          "lipid_aldehyde": "C9"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A1",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D35",
+          "lipid_aldehyde": "C6"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A1",
+          "isocyanide": "B9",
+          "lipid_carboxylic_acid": "D16",
+          "lipid_aldehyde": "C6"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A1",
+          "isocyanide": "B11",
+          "lipid_carboxylic_acid": "D21",
+          "lipid_aldehyde": "C2"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A2",
+          "isocyanide": "B1",
+          "lipid_carboxylic_acid": "D6",
+          "lipid_aldehyde": "C14"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A2",
+          "isocyanide": "B2",
+          "lipid_carboxylic_acid": "D7",
+          "lipid_aldehyde": "C1"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A2",
+          "isocyanide": "B10",
+          "lipid_carboxylic_acid": "D20",
+          "lipid_aldehyde": "C16"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A2",
+          "isocyanide": "B11",
+          "lipid_carboxylic_acid": "D34",
+          "lipid_aldehyde": "C6"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A3",
+          "isocyanide": "B1",
+          "lipid_carboxylic_acid": "D26",
+          "lipid_aldehyde": "C11"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A3",
+          "isocyanide": "B4",
+          "lipid_carboxylic_acid": "D28",
+          "lipid_aldehyde": "C14"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A3",
+          "isocyanide": "B5",
+          "lipid_carboxylic_acid": "D32",
+          "lipid_aldehyde": "C8"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A3",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D19",
+          "lipid_aldehyde": "C13"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A3",
+          "isocyanide": "B9",
+          "lipid_carboxylic_acid": "D35",
+          "lipid_aldehyde": "C12"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A3",
+          "isocyanide": "B12",
+          "lipid_carboxylic_acid": "D8",
+          "lipid_aldehyde": "C4"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A4",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D1",
+          "lipid_aldehyde": "C6"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A4",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D25",
+          "lipid_aldehyde": "C15"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A4",
+          "isocyanide": "B9",
+          "lipid_carboxylic_acid": "D17",
+          "lipid_aldehyde": "C11"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A4",
+          "isocyanide": "B9",
+          "lipid_carboxylic_acid": "D16",
+          "lipid_aldehyde": "C12"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A4",
+          "isocyanide": "B12",
+          "lipid_carboxylic_acid": "D25",
+          "lipid_aldehyde": "C5"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A4",
+          "isocyanide": "B12",
+          "lipid_carboxylic_acid": "D12",
+          "lipid_aldehyde": "C9"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A5",
+          "isocyanide": "B1",
+          "lipid_carboxylic_acid": "D4",
+          "lipid_aldehyde": "C8"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A5",
+          "isocyanide": "B3",
+          "lipid_carboxylic_acid": "D35",
+          "lipid_aldehyde": "C12"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A5",
+          "isocyanide": "B4",
+          "lipid_carboxylic_acid": "D2",
+          "lipid_aldehyde": "C3"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A5",
+          "isocyanide": "B4",
+          "lipid_carboxylic_acid": "D19",
+          "lipid_aldehyde": "C3"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A5",
+          "isocyanide": "B4",
+          "lipid_carboxylic_acid": "D17",
+          "lipid_aldehyde": "C10"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A5",
+          "isocyanide": "B8",
+          "lipid_carboxylic_acid": "D27",
+          "lipid_aldehyde": "C16"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A5",
+          "isocyanide": "B10",
+          "lipid_carboxylic_acid": "D17",
+          "lipid_aldehyde": "C14"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A5",
+          "isocyanide": "B11",
+          "lipid_carboxylic_acid": "D24",
+          "lipid_aldehyde": "C3"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A5",
+          "isocyanide": "B12",
+          "lipid_carboxylic_acid": "D32",
+          "lipid_aldehyde": "C2"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A6",
+          "isocyanide": "B1",
+          "lipid_carboxylic_acid": "D3",
+          "lipid_aldehyde": "C11"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A6",
+          "isocyanide": "B4",
+          "lipid_carboxylic_acid": "D13",
+          "lipid_aldehyde": "C5"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A6",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D10",
+          "lipid_aldehyde": "C10"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A6",
+          "isocyanide": "B8",
+          "lipid_carboxylic_acid": "D21",
+          "lipid_aldehyde": "C3"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A7",
+          "isocyanide": "B1",
+          "lipid_carboxylic_acid": "D17",
+          "lipid_aldehyde": "C14"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A7",
+          "isocyanide": "B2",
+          "lipid_carboxylic_acid": "D28",
+          "lipid_aldehyde": "C5"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A7",
+          "isocyanide": "B2",
+          "lipid_carboxylic_acid": "D24",
+          "lipid_aldehyde": "C8"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A7",
+          "isocyanide": "B5",
+          "lipid_carboxylic_acid": "D3",
+          "lipid_aldehyde": "C4"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A7",
+          "isocyanide": "B9",
+          "lipid_carboxylic_acid": "D32",
+          "lipid_aldehyde": "C4"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A7",
+          "isocyanide": "B10",
+          "lipid_carboxylic_acid": "D17",
+          "lipid_aldehyde": "C11"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A7",
+          "isocyanide": "B10",
+          "lipid_carboxylic_acid": "D7",
+          "lipid_aldehyde": "C16"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A7",
+          "isocyanide": "B11",
+          "lipid_carboxylic_acid": "D1",
+          "lipid_aldehyde": "C9"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A7",
+          "isocyanide": "B12",
+          "lipid_carboxylic_acid": "D4",
+          "lipid_aldehyde": "C6"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A8",
+          "isocyanide": "B4",
+          "lipid_carboxylic_acid": "D16",
+          "lipid_aldehyde": "C6"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A8",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D35",
+          "lipid_aldehyde": "C2"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A8",
+          "isocyanide": "B10",
+          "lipid_carboxylic_acid": "D30",
+          "lipid_aldehyde": "C12"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A8",
+          "isocyanide": "B11",
+          "lipid_carboxylic_acid": "D3",
+          "lipid_aldehyde": "C15"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A8",
+          "isocyanide": "B12",
+          "lipid_carboxylic_acid": "D13",
+          "lipid_aldehyde": "C7"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A9",
+          "isocyanide": "B1",
+          "lipid_carboxylic_acid": "D25",
+          "lipid_aldehyde": "C16"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A9",
+          "isocyanide": "B3",
+          "lipid_carboxylic_acid": "D14",
+          "lipid_aldehyde": "C1"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A9",
+          "isocyanide": "B3",
+          "lipid_carboxylic_acid": "D3",
+          "lipid_aldehyde": "C9"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A9",
+          "isocyanide": "B5",
+          "lipid_carboxylic_acid": "D11",
+          "lipid_aldehyde": "C9"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A9",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D7",
+          "lipid_aldehyde": "C14"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A9",
+          "isocyanide": "B8",
+          "lipid_carboxylic_acid": "D30",
+          "lipid_aldehyde": "C10"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A9",
+          "isocyanide": "B10",
+          "lipid_carboxylic_acid": "D27",
+          "lipid_aldehyde": "C7"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A9",
+          "isocyanide": "B11",
+          "lipid_carboxylic_acid": "D8",
+          "lipid_aldehyde": "C1"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A9",
+          "isocyanide": "B11",
+          "lipid_carboxylic_acid": "D30",
+          "lipid_aldehyde": "C4"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A10",
+          "isocyanide": "B2",
+          "lipid_carboxylic_acid": "D13",
+          "lipid_aldehyde": "C6"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A10",
+          "isocyanide": "B2",
+          "lipid_carboxylic_acid": "D25",
+          "lipid_aldehyde": "C10"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A10",
+          "isocyanide": "B5",
+          "lipid_carboxylic_acid": "D26",
+          "lipid_aldehyde": "C6"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A10",
+          "isocyanide": "B6",
+          "lipid_carboxylic_acid": "D12",
+          "lipid_aldehyde": "C6"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A10",
+          "isocyanide": "B11",
+          "lipid_carboxylic_acid": "D15",
+          "lipid_aldehyde": "C1"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A11",
+          "isocyanide": "B1",
+          "lipid_carboxylic_acid": "D35",
+          "lipid_aldehyde": "C14"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A11",
+          "isocyanide": "B5",
+          "lipid_carboxylic_acid": "D15",
+          "lipid_aldehyde": "C11"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A11",
+          "isocyanide": "B10",
+          "lipid_carboxylic_acid": "D17",
+          "lipid_aldehyde": "C1"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A11",
+          "isocyanide": "B10",
+          "lipid_carboxylic_acid": "D33",
+          "lipid_aldehyde": "C15"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A11",
+          "isocyanide": "B11",
+          "lipid_carboxylic_acid": "D33",
+          "lipid_aldehyde": "C3"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A11",
+          "isocyanide": "B12",
+          "lipid_carboxylic_acid": "D36",
+          "lipid_aldehyde": "C14"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A12",
+          "isocyanide": "B10",
+          "lipid_carboxylic_acid": "D28",
+          "lipid_aldehyde": "C6"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A12",
+          "isocyanide": "B10",
+          "lipid_carboxylic_acid": "D17",
+          "lipid_aldehyde": "C11"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A12",
+          "isocyanide": "B12",
+          "lipid_carboxylic_acid": "D12",
+          "lipid_aldehyde": "C9"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A12",
+          "isocyanide": "B12",
+          "lipid_carboxylic_acid": "D11",
+          "lipid_aldehyde": "C16"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A13",
+          "isocyanide": "B1",
+          "lipid_carboxylic_acid": "D26",
+          "lipid_aldehyde": "C14"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A13",
+          "isocyanide": "B3",
+          "lipid_carboxylic_acid": "D6",
+          "lipid_aldehyde": "C3"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A13",
+          "isocyanide": "B3",
+          "lipid_carboxylic_acid": "D24",
+          "lipid_aldehyde": "C12"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A13",
+          "isocyanide": "B6",
+          "lipid_carboxylic_acid": "D18",
+          "lipid_aldehyde": "C8"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A13",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D2",
+          "lipid_aldehyde": "C6"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A13",
+          "isocyanide": "B8",
+          "lipid_carboxylic_acid": "D21",
+          "lipid_aldehyde": "C5"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A13",
+          "isocyanide": "B11",
+          "lipid_carboxylic_acid": "D11",
+          "lipid_aldehyde": "C1"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A14",
+          "isocyanide": "B3",
+          "lipid_carboxylic_acid": "D1",
+          "lipid_aldehyde": "C14"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A14",
+          "isocyanide": "B6",
+          "lipid_carboxylic_acid": "D9",
+          "lipid_aldehyde": "C7"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A14",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D36",
+          "lipid_aldehyde": "C14"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A14",
+          "isocyanide": "B8",
+          "lipid_carboxylic_acid": "D33",
+          "lipid_aldehyde": "C11"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A14",
+          "isocyanide": "B12",
+          "lipid_carboxylic_acid": "D15",
+          "lipid_aldehyde": "C8"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A15",
+          "isocyanide": "B2",
+          "lipid_carboxylic_acid": "D36",
+          "lipid_aldehyde": "C2"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A15",
+          "isocyanide": "B4",
+          "lipid_carboxylic_acid": "D19",
+          "lipid_aldehyde": "C3"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A15",
+          "isocyanide": "B4",
+          "lipid_carboxylic_acid": "D8",
+          "lipid_aldehyde": "C8"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A15",
+          "isocyanide": "B8",
+          "lipid_carboxylic_acid": "D7",
+          "lipid_aldehyde": "C11"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A15",
+          "isocyanide": "B9",
+          "lipid_carboxylic_acid": "D30",
+          "lipid_aldehyde": "C12"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A16",
+          "isocyanide": "B2",
+          "lipid_carboxylic_acid": "D3",
+          "lipid_aldehyde": "C3"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A16",
+          "isocyanide": "B6",
+          "lipid_carboxylic_acid": "D15",
+          "lipid_aldehyde": "C1"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A17",
+          "isocyanide": "B1",
+          "lipid_carboxylic_acid": "D31",
+          "lipid_aldehyde": "C10"
+        }
+      }
+    ]
+  },
+  {
+    "targets": [
+      {
+        "lipid": {
+          "amines": "A17",
+          "isocyanide": "B1",
+          "lipid_carboxylic_acid": "D8",
+          "lipid_aldehyde": "C12"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A17",
+          "isocyanide": "B2",
+          "lipid_carboxylic_acid": "D30",
+          "lipid_aldehyde": "C3"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A17",
+          "isocyanide": "B2",
+          "lipid_carboxylic_acid": "D24",
+          "lipid_aldehyde": "C15"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A17",
+          "isocyanide": "B5",
+          "lipid_carboxylic_acid": "D12",
+          "lipid_aldehyde": "C1"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A17",
+          "isocyanide": "B5",
+          "lipid_carboxylic_acid": "D23",
+          "lipid_aldehyde": "C1"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A17",
+          "isocyanide": "B5",
+          "lipid_carboxylic_acid": "D27",
+          "lipid_aldehyde": "C3"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A17",
+          "isocyanide": "B5",
+          "lipid_carboxylic_acid": "D5",
+          "lipid_aldehyde": "C8"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A17",
+          "isocyanide": "B6",
+          "lipid_carboxylic_acid": "D1",
+          "lipid_aldehyde": "C9"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A17",
+          "isocyanide": "B10",
+          "lipid_carboxylic_acid": "D6",
+          "lipid_aldehyde": "C1"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A17",
+          "isocyanide": "B10",
+          "lipid_carboxylic_acid": "D26",
+          "lipid_aldehyde": "C6"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A18",
+          "isocyanide": "B2",
+          "lipid_carboxylic_acid": "D15",
+          "lipid_aldehyde": "C16"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A18",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D34",
+          "lipid_aldehyde": "C8"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A18",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D15",
+          "lipid_aldehyde": "C13"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A18",
+          "isocyanide": "B10",
+          "lipid_carboxylic_acid": "D4",
+          "lipid_aldehyde": "C3"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A20",
+          "isocyanide": "B1",
+          "lipid_carboxylic_acid": "D27",
+          "lipid_aldehyde": "C3"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A20",
+          "isocyanide": "B2",
+          "lipid_carboxylic_acid": "D31",
+          "lipid_aldehyde": "C7"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A20",
+          "isocyanide": "B5",
+          "lipid_carboxylic_acid": "D18",
+          "lipid_aldehyde": "C5"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A20",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D33",
+          "lipid_aldehyde": "C3"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A20",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D19",
+          "lipid_aldehyde": "C9"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A20",
+          "isocyanide": "B8",
+          "lipid_carboxylic_acid": "D12",
+          "lipid_aldehyde": "C6"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A20",
+          "isocyanide": "B8",
+          "lipid_carboxylic_acid": "D26",
+          "lipid_aldehyde": "C11"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A20",
+          "isocyanide": "B12",
+          "lipid_carboxylic_acid": "D1",
+          "lipid_aldehyde": "C10"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A21",
+          "isocyanide": "B3",
+          "lipid_carboxylic_acid": "D22",
+          "lipid_aldehyde": "C1"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A21",
+          "isocyanide": "B5",
+          "lipid_carboxylic_acid": "D23",
+          "lipid_aldehyde": "C6"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A21",
+          "isocyanide": "B6",
+          "lipid_carboxylic_acid": "D7",
+          "lipid_aldehyde": "C4"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A21",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D25",
+          "lipid_aldehyde": "C14"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A21",
+          "isocyanide": "B8",
+          "lipid_carboxylic_acid": "D8",
+          "lipid_aldehyde": "C5"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A21",
+          "isocyanide": "B9",
+          "lipid_carboxylic_acid": "D22",
+          "lipid_aldehyde": "C8"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A21",
+          "isocyanide": "B10",
+          "lipid_carboxylic_acid": "D15",
+          "lipid_aldehyde": "C12"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A22",
+          "isocyanide": "B4",
+          "lipid_carboxylic_acid": "D18",
+          "lipid_aldehyde": "C5"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A22",
+          "isocyanide": "B6",
+          "lipid_carboxylic_acid": "D14",
+          "lipid_aldehyde": "C3"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A22",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D8",
+          "lipid_aldehyde": "C13"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A22",
+          "isocyanide": "B8",
+          "lipid_carboxylic_acid": "D21",
+          "lipid_aldehyde": "C3"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A23",
+          "isocyanide": "B4",
+          "lipid_carboxylic_acid": "D12",
+          "lipid_aldehyde": "C9"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A23",
+          "isocyanide": "B5",
+          "lipid_carboxylic_acid": "D4",
+          "lipid_aldehyde": "C7"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A23",
+          "isocyanide": "B5",
+          "lipid_carboxylic_acid": "D24",
+          "lipid_aldehyde": "C10"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A23",
+          "isocyanide": "B6",
+          "lipid_carboxylic_acid": "D12",
+          "lipid_aldehyde": "C10"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A23",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D1",
+          "lipid_aldehyde": "C5"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A23",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D10",
+          "lipid_aldehyde": "C7"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A23",
+          "isocyanide": "B8",
+          "lipid_carboxylic_acid": "D8",
+          "lipid_aldehyde": "C13"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A23",
+          "isocyanide": "B12",
+          "lipid_carboxylic_acid": "D8",
+          "lipid_aldehyde": "C9"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A24",
+          "isocyanide": "B1",
+          "lipid_carboxylic_acid": "D29",
+          "lipid_aldehyde": "C14"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A24",
+          "isocyanide": "B8",
+          "lipid_carboxylic_acid": "D27",
+          "lipid_aldehyde": "C12"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A24",
+          "isocyanide": "B9",
+          "lipid_carboxylic_acid": "D33",
+          "lipid_aldehyde": "C9"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A24",
+          "isocyanide": "B9",
+          "lipid_carboxylic_acid": "D23",
+          "lipid_aldehyde": "C12"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A24",
+          "isocyanide": "B10",
+          "lipid_carboxylic_acid": "D31",
+          "lipid_aldehyde": "C8"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A24",
+          "isocyanide": "B10",
+          "lipid_carboxylic_acid": "D30",
+          "lipid_aldehyde": "C11"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A25",
+          "isocyanide": "B4",
+          "lipid_carboxylic_acid": "D9",
+          "lipid_aldehyde": "C7"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A25",
+          "isocyanide": "B4",
+          "lipid_carboxylic_acid": "D20",
+          "lipid_aldehyde": "C11"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A25",
+          "isocyanide": "B8",
+          "lipid_carboxylic_acid": "D18",
+          "lipid_aldehyde": "C10"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A25",
+          "isocyanide": "B11",
+          "lipid_carboxylic_acid": "D10",
+          "lipid_aldehyde": "C8"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A26",
+          "isocyanide": "B4",
+          "lipid_carboxylic_acid": "D10",
+          "lipid_aldehyde": "C7"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A26",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D34",
+          "lipid_aldehyde": "C1"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A26",
+          "isocyanide": "B8",
+          "lipid_carboxylic_acid": "D32",
+          "lipid_aldehyde": "C11"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A26",
+          "isocyanide": "B12",
+          "lipid_carboxylic_acid": "D18",
+          "lipid_aldehyde": "C10"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A27",
+          "isocyanide": "B9",
+          "lipid_carboxylic_acid": "D32",
+          "lipid_aldehyde": "C10"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A27",
+          "isocyanide": "B12",
+          "lipid_carboxylic_acid": "D18",
+          "lipid_aldehyde": "C5"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A28",
+          "isocyanide": "B2",
+          "lipid_carboxylic_acid": "D4",
+          "lipid_aldehyde": "C14"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A28",
+          "isocyanide": "B5",
+          "lipid_carboxylic_acid": "D3",
+          "lipid_aldehyde": "C4"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A28",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D10",
+          "lipid_aldehyde": "C15"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A28",
+          "isocyanide": "B10",
+          "lipid_carboxylic_acid": "D13",
+          "lipid_aldehyde": "C5"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A28",
+          "isocyanide": "B10",
+          "lipid_carboxylic_acid": "D35",
+          "lipid_aldehyde": "C6"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A28",
+          "isocyanide": "B11",
+          "lipid_carboxylic_acid": "D12",
+          "lipid_aldehyde": "C7"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A28",
+          "isocyanide": "B12",
+          "lipid_carboxylic_acid": "D19",
+          "lipid_aldehyde": "C11"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A29",
+          "isocyanide": "B8",
+          "lipid_carboxylic_acid": "D18",
+          "lipid_aldehyde": "C7"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A29",
+          "isocyanide": "B11",
+          "lipid_carboxylic_acid": "D5",
+          "lipid_aldehyde": "C14"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A30",
+          "isocyanide": "B3",
+          "lipid_carboxylic_acid": "D14",
+          "lipid_aldehyde": "C2"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A30",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D9",
+          "lipid_aldehyde": "C10"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A30",
+          "isocyanide": "B11",
+          "lipid_carboxylic_acid": "D2",
+          "lipid_aldehyde": "C15"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A31",
+          "isocyanide": "B1",
+          "lipid_carboxylic_acid": "D23",
+          "lipid_aldehyde": "C1"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A31",
+          "isocyanide": "B1",
+          "lipid_carboxylic_acid": "D3",
+          "lipid_aldehyde": "C10"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A31",
+          "isocyanide": "B3",
+          "lipid_carboxylic_acid": "D36",
+          "lipid_aldehyde": "C3"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A31",
+          "isocyanide": "B6",
+          "lipid_carboxylic_acid": "D33",
+          "lipid_aldehyde": "C15"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A31",
+          "isocyanide": "B12",
+          "lipid_carboxylic_acid": "D19",
+          "lipid_aldehyde": "C13"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A31",
+          "isocyanide": "B12",
+          "lipid_carboxylic_acid": "D29",
+          "lipid_aldehyde": "C14"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A32",
+          "isocyanide": "B2",
+          "lipid_carboxylic_acid": "D3",
+          "lipid_aldehyde": "C5"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A32",
+          "isocyanide": "B5",
+          "lipid_carboxylic_acid": "D13",
+          "lipid_aldehyde": "C1"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A32",
+          "isocyanide": "B6",
+          "lipid_carboxylic_acid": "D14",
+          "lipid_aldehyde": "C7"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A32",
+          "isocyanide": "B9",
+          "lipid_carboxylic_acid": "D4",
+          "lipid_aldehyde": "C3"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A32",
+          "isocyanide": "B9",
+          "lipid_carboxylic_acid": "D29",
+          "lipid_aldehyde": "C14"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A32",
+          "isocyanide": "B11",
+          "lipid_carboxylic_acid": "D9",
+          "lipid_aldehyde": "C1"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A32",
+          "isocyanide": "B11",
+          "lipid_carboxylic_acid": "D6",
+          "lipid_aldehyde": "C9"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A4",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D26",
+          "lipid_aldehyde": "C9"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A4",
+          "isocyanide": "B9",
+          "lipid_carboxylic_acid": "D27",
+          "lipid_aldehyde": "C10"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A4",
+          "isocyanide": "B11",
+          "lipid_carboxylic_acid": "D27",
+          "lipid_aldehyde": "C9"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A5",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D26",
+          "lipid_aldehyde": "C10"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A5",
+          "isocyanide": "B9",
+          "lipid_carboxylic_acid": "D27",
+          "lipid_aldehyde": "C9"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A5",
+          "isocyanide": "B11",
+          "lipid_carboxylic_acid": "D26",
+          "lipid_aldehyde": "C9"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A12",
+          "isocyanide": "B7",
+          "lipid_carboxylic_acid": "D27",
+          "lipid_aldehyde": "C10"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A12",
+          "isocyanide": "B9",
+          "lipid_carboxylic_acid": "D26",
+          "lipid_aldehyde": "C9"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A17",
+          "isocyanide": "B9",
+          "lipid_carboxylic_acid": "D27",
+          "lipid_aldehyde": "C10"
+        }
+      },
+      {
+        "lipid": {
+          "amines": "A17",
+          "isocyanide": "B11",
+          "lipid_carboxylic_acid": "D26",
+          "lipid_aldehyde": "C10"
+        }
+      }
+    ]
+  }
+]
