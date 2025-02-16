@@ -1,0 +1,3 @@
+[submodule "control_panel/dashboard/SDL-York"]
+	path = control_panel/dashboard/SDL-York
+	url = git@github.com:cpuxuyue/SDL-York.git
