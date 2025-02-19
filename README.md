@@ -2,6 +2,9 @@
 
 Foundation model-driven lab enabling discovery of ionizable lipid design
 
+[![bioRxiv](https://img.shields.io/badge/bioRxiv-Preprint-red)](https://www.biorxiv.org/content/10.1101/2025.02.14.638383)
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-red)](https://youtu.be/POOgIiKRSiE)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
