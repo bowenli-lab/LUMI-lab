@@ -1,12 +1,11 @@
 # LUMI-lab
 
-Foundation model-driven lab enabling discovery of ionizable lipid design
-
 [![bioRxiv](https://img.shields.io/badge/Preprint-bioRxiv-green)](https://www.biorxiv.org/content/10.1101/2025.02.14.638383)
 [![YouTube](https://img.shields.io/badge/Demo-YouTube-red)](https://youtu.be/POOgIiKRSiE)
 
-## Table of Contents
+Foundation model-driven lab enabling discovery of ionizable lipid design
 
+## Table of Contents
 - [Introduction](#introduction)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
@@ -20,10 +19,7 @@ LUMI-lab is a foundation model-driven laboratory designed to enable the discover
 
 ## Core Contributors
 
-- Haotian Cui ([subercui@gmail.com](mailto:subercui@gmail.com))
-- Kuan Pang
-- Gen Li
-- Yue Xu
+[Haotian Cui](https://github.com/subercui) ([subercui@gmail.com](mailto:subercui@gmail.com)), [Kuan Pang](https://github.com/Kuan-Pang), [Gen Li](https://github.com/ReaganGen), [Yue Xu](https://github.com/cpuxuyue)
 
 ## License
 
