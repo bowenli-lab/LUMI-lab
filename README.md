@@ -6,6 +6,7 @@
 Foundation model-driven lab enabling discovery of ionizable lipid design
 
 ## Table of Contents
+
 - [Introduction](#introduction)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
@@ -24,3 +25,14 @@ LUMI-lab is a foundation model-driven laboratory designed to enable the discover
 ## License
 
 This project is licensed under the terms of the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+We would like to express special thanks to the following open-source projects, which have been instrumental in the development of LUMI-lab:
+
+- [Uni-Mol](https://github.com/deepmodeling/Uni-Mol/tree/main)
+- [Uni-Core](https://github.com/dptech-corp/Uni-Core)
+- [transformers](https://github.com/huggingface/transformers)
+- [PyTorch](https://github.com/pytorch/pytorch)
+- [RDKiT](https://github.com/rdkit/rdkit)
+- [flash-attention](https://github.com/Dao-AILab/flash-attention)
