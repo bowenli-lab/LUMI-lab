@@ -1,0 +1,3 @@
+baseline: "/home/sdl/3d_molecule_save/baseline/mol_pre_no_h_220816.pt"
+sdl-high-masking-ckpt-5: "/home/sdl/3d_molecule_save/pretrain-20240602-1143/checkpoint_best.pt"
+sdl-contrastive-continual-ckpt: "/home/sdl/3d_molecule_save/contrastive-continual-mixed/checkpoint_best copy.pt"

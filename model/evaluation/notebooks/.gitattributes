@@ -1,0 +1,16 @@
+exp1001_export.lmdb filter=lfs diff=lfs merge=lfs -text
+exp1001_export.csv filter=lfs diff=lfs merge=lfs -text
+exp1006_export.csv filter=lfs diff=lfs merge=lfs -text
+exp1006_export.lmdb filter=lfs diff=lfs merge=lfs -text
+exp1010_export.csv filter=lfs diff=lfs merge=lfs -text
+exp1010_export.lmdb filter=lfs diff=lfs merge=lfs -text
+exp1016_export.csv filter=lfs diff=lfs merge=lfs -text
+exp1016_export.lmdb filter=lfs diff=lfs merge=lfs -text
+exp1019_export.csv filter=lfs diff=lfs merge=lfs -text
+exp1019_export.lmdb filter=lfs diff=lfs merge=lfs -text
+exp1022_export.csv filter=lfs diff=lfs merge=lfs -text
+exp1022_export.lmdb filter=lfs diff=lfs merge=lfs -text
+exp1030_export.csv filter=lfs diff=lfs merge=lfs -text
+exp1030_export.lmdb filter=lfs diff=lfs merge=lfs -text
+exp1102_export.csv filter=lfs diff=lfs merge=lfs -text
+exp1102_export.lmdb filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,11 @@
+logs/
+data/
+*.lmdb
+*.pt
+*.pth
+*.pkl
+*.csv
+*.txt
+
+weights/
+*.sdf

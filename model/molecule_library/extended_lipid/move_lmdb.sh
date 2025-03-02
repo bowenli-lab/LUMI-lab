@@ -1,0 +1,1 @@
+scp -r pangkuan@beluga.computecanada.ca:/home/pangkuan/projects/def-bowenli/pangkuan/data/15m-lib/*.lmdb /scratch/ssd004/datasets/cellxgene/3d_molecule_data/15m-lib

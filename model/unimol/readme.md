@@ -1,0 +1,1 @@
+The code in this folder is modified from the original code in the [Unimol repository](https://github.com/deepmodeling/Uni-Mol/tree/main/unimol). The original code is licensed under the terms of MIT License. See the [LICENSE](https://github.com/deepmodeling/Uni-Mol/blob/main/LICENSE) file for details.
