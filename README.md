@@ -18,6 +18,19 @@ Foundation model-driven lab enabling discovery of ionizable lipid design
 
 LUMI-lab is a foundation model-driven laboratory designed to enable the discovery and design of ionizable lipids. This project integrates various components, including 3D printing models, control panels, and automated systems, to facilitate advanced lipid research.
 
+## Usage
+Check the following directory for details!
+
+
+| Directory | Description |
+| ------- | ----------- |
+| [3D Printing](/3D_printing_models/) | The directory includes 3D printing models for various components. |
+| [Control Panel](/control_panel/) | The control panel directory contains source code the for orchestration system and GUI for controlling and monitoring the lab. |
+| [Opentrons](/opentron/) | The opentron directory contains the protocols for the Opentrons robot, and config files for customized labwares, |
+| [Model](/model/) | The model directory contains the foundation model and the training code. |
+
+
+
 ## Core Contributors
 
 [Haotian Cui](https://github.com/subercui) ([subercui@gmail.com](mailto:subercui@gmail.com)), [Kuan Pang](https://github.com/Kuan-Pang), [Gen Li](https://github.com/ReaganGen), [Yue Xu](https://github.com/cpuxuyue)
@@ -36,3 +49,17 @@ We would like to express special thanks to the following open-source projects, w
 - [PyTorch](https://github.com/pytorch/pytorch)
 - [RDKiT](https://github.com/rdkit/rdkit)
 - [flash-attention](https://github.com/Dao-AILab/flash-attention)
+- [Alab Management](https://github.com/CederGroupHub/alabos)
+
+
+## Citing LUMI-lab
+```
+@article{cui2025lumi,
+  title={LUMI-lab: a Foundation Model-Driven Autonomous Platform Enabling Discovery of New Ionizable Lipid Designs for mRNA Delivery},
+  author={Cui, Haotian and Xu, Yue and Pang, Kuan and Li, Gen and Gong, Fanglin and Wang, Bo and Li, Bowen},
+  journal={bioRxiv},
+  pages={2025--02},
+  year={2025},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```

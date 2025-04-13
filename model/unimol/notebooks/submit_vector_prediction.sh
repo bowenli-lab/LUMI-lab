@@ -6,7 +6,6 @@
 #SBATCH --qos=m5
 #SBATCH -p t4v2
 #SBATCH --gres=gpu:1
-#SBATCH --mail-user=pangkuantony@gmail.com
 #SBATCH --mail-type=ALL
 #SBATCH --output=pred_log/%x-%j.out
 #SBATCH --error=pred_log/%x-%j.err

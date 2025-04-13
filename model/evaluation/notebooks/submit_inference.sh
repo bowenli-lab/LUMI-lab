@@ -25,7 +25,6 @@ which python
 cd /home/sdl/SDL-LNP/model/evaluation/notebooks
 
 model_name="sdl-contrastive-continual-ckpt_2024-07-08_12-10-42_fold_1"
-# model_name="baseline_2024-06-10_11-43-48_fold_5"
 
 # Run the inference script
 ~/miniconda3/envs/unimol/bin/python /home/sdl/SDL-LNP/model/evaluation/notebooks/unimol_inference.py \
