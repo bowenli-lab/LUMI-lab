@@ -5,7 +5,6 @@
 #SBATCH --job-name=array-finetune
 #SBATCH --gres=gpu:1
 #SBATCH --qos=m4
-#SBATCH --mail-user=pangkuantony@gmail.com
 #SBATCH --mail-type=ALL
 #SBATCH --output=kfold_log/%x-%j.out
 #SBATCH --error=kfold_log/%x-%j.err
@@ -15,7 +14,6 @@ module unload python
 conda activate unimol
 source /h/pangkuan/miniconda3/envs/unimol/bin/activate
 
-export HF_DATASETS_CACHE="/scratch/ssd004/scratch/pangkuan/hf_cache"
 
 cd /h/pangkuan/dev/SDL-LNP/model/evaluation/notebooks/
 

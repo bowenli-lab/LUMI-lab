@@ -24,10 +24,10 @@ Check the following directory for details!
 
 | Directory | Description |
 | ------- | ----------- |
-| [3D Printing](/3D_printing_models/README.md) | The directory includes 3D printing models for various components. |
-| [Control Panel](/control_panel/README.md) | The control panel directory contains source code the for orchestration system and GUI for controlling and monitoring the lab. |
-| [Opentrons](/opentron/README.md) | The opentron directory contains the protocols for the Opentrons robot, and config files for customized labwares, |
-| [Model](/model/README.md) | The model directory contains the foundation model and the training code. |
+| [3D Printing](/3D_printing_models/) | The directory includes 3D printing models for various components. |
+| [Control Panel](/control_panel/) | The control panel directory contains source code the for orchestration system and GUI for controlling and monitoring the lab. |
+| [Opentrons](/opentron/) | The opentron directory contains the protocols for the Opentrons robot, and config files for customized labwares, |
+| [Model](/model/) | The model directory contains the foundation model and the training code. |
 
 
 

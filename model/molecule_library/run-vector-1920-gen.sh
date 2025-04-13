@@ -5,7 +5,6 @@
 #SBATCH --mem=198G
 #SBATCH --qos=cpu_qos
 #SBATCH -p cpu
-#SBATCH --mail-user=pangkuantony@gmail.com
 #SBATCH --mail-type=ALL
 #SBATCH --output=log/%x-%j.out
 #SBATCH --error=log/%x-%j.err
