@@ -29,7 +29,7 @@ Check the following directory for details!
 | [Opentrons](/opentron/) | The opentron directory contains the protocols for the Opentrons robot, and config files for customized labwares, |
 | [Model](/model/) | The model directory contains the foundation model and the training code. |
 
-
+The model weights after continual pretraining is released: check checkpoint_best.pt
 
 ## Core Contributors
 
