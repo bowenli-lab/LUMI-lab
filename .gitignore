@@ -171,7 +171,6 @@ Uni-Core/
 model_weight/
 weights/
 wandb/
-*.pt
 
 logs/
 model/unimol/notebooks/weights/mol_pre_no_h_220816.pt
